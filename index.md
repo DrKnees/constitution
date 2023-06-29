@@ -1,3 +1,4 @@
+<title>Constitution of Mount Augusta</title>
 <style type="text/css">
     ol ol { list-style-type: lower-alpha; }
 </style>
