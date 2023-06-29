@@ -7,25 +7,31 @@
 #### [Article I: Basic Provisions](#I)
 - [Chapter A: Rule of Law](#I-A)  
 - [Chapter B: Rights](#I-B)  
-- [Chapter C: Citizenship and Voter Registration](#I-C)
+- [Chapter C: Citizenship and Voter Registration](#I-C)  
+
 #### [Article II: Voting](#II)
 - [Chapter D: Bill and Amendment Voting](#II-D)  
-- [Chapter E: Election and Recall Procedure](#II-E)
+- [Chapter E: Election and Recall Procedure](#II-E)  
+
 #### [Article III: Government](#III)
 - [Chapter F: Office of the Mayor](#III-F)  
 - [Chapter G: The Cupboard](#III-G)  
-- [Chapter H: Autonomous Regions](#III-H)
+- [Chapter H: Autonomous Regions](#III-H)  
+
 #### [Article IV: The Court](#IV)
 - [Chapter I: Office of Judge and The Court](#IV-I)  
 - [Chapter J: Trial Procedure](#IV-J)  
 - [Chapter K: Appeals and Retrials](#IV-K)  
-- [Chapter L: Legal Rights, Limitations, and Extradition](#IV-L)
+- [Chapter L: Legal Rights, Limitations, and Extradition](#IV-L)  
+
 #### [Article V: Property](#V)
 - [Chapter M: Definition and Registration](#V-M)  
-- [Chapter N: Dereliction](#V-N)
+- [Chapter N: Dereliction](#V-N)  
+
 #### [Article VI: Miscellaneous Provisions](#VI)
 - [Chapter O: Symbols of Augusta](#VI-O)  
-- [Chapter P: Territory and Borders](#VI-P)
+- [Chapter P: Territory and Borders](#VI-P)  
+
 #### [Article VII: Launch Provisions](#VII)
 - [Chapter Q: Timing and Manner of First Elections](#VII-Q)
 - [Chapter R: Ratification, Voter Registration, and the Provisional Mayor](#VII-R)
@@ -33,7 +39,7 @@
 *NB: This table of contents is not part of the official text of this Constitution, it has been added for ease of usage by the editor of this copy.*
 
 ---
-  
+<br>
 Ratified by the Preliminary Citizens of Mount Augusta Discord on 19-05-2022
 
 WHEREAS: Mount Augusta has existed on all major Civ-genre servers since CivCraft 1.0,  
