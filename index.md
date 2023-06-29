@@ -33,7 +33,7 @@
 *NB: This table of contents is not part of the official text of this Constitution, it has been added for ease of usage by the editor of this copy.*
 
 ---
-
+  
 Ratified by the Preliminary Citizens of Mount Augusta Discord on 19-05-2022
 
 WHEREAS: Mount Augusta has existed on all major Civ-genre servers since CivCraft 1.0,  
